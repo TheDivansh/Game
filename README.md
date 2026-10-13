@@ -2,8 +2,6 @@
 
 A top-down 2D roguelike that runs in the terminal. Explore randomly generated dungeon floors, fight enemies, collect upgrades, and defeat the Dragon on floor 5.
 
-The repo also includes an earlier text-adventure version of the game (`dungeon.cpp`).
-
 ![Gameplay screenshot](screenshot.png)
 
 ## Features
