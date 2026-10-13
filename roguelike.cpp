@@ -1,7 +1,3 @@
-// 2D terminal roguelike (C++14)
-// Compile: g++ -std=gnu++14 -o roguelike roguelike.cpp
-// Controls: WASD / arrows = move or attack, H = potion, . = wait, Q = quit
-
 #include <algorithm>
 #include <cctype>
 #include <cstdlib>
